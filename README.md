@@ -9,10 +9,10 @@
 <h2 align="left">About me</h2>
 
 ###
+<img src="https://github.com/ykhan2109/ykhan2109/blob/main/man-1835.gif"  align="right" width="200" height="300" alt="gif"> 
+<p align="left">👨‍🎓 Currentlt i am final year computer science engineering student<br>✨ I love travelling , playing guitar , reading books.<br>📚 I’m looking to collaborate on ML and Web dev based projects<br>🎯 Goals: To be happy in whatever i do <br>🌱 I’m currently learning Django, Django REST ,NLP and MEAN development.
 
-<p align="left">👨‍🎓 Currentlt i am final year computer science engineering student<br>✨ I love travelling , playing guitar , reading books.<br>📚 I’m looking to collaborate on ML and Web dev based projects<br>🎯 Goals: To be happy in whatever i do <br>🌱 I’m currently learning Django, Django REST ,NLP and MEAN development.</p>
-<br>
-<img src=" 
+</p>
 
 ###
 
@@ -101,3 +101,8 @@
 </div>
 
 ###
+# 📫 How to reach me: 
+
+
+[<img src = "https://th.bing.com/th/id/R.4703eba111254c882c6215a5e7667c86?rik=iiilW6%2bIwyrGdQ&riu=http%3a%2f%2fwww.experian.com%2fblogs%2fsmall-business-matters%2fwp-content%2fuploads%2f2011%2f11%2flinkedin_logo.jpg&ehk=fcjpp4hSqBcGe8ElB57ugaDuON%2bFkn4m0srV1JU9ODc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt = 'linkedin' height = '40'>](https://www.linkedin.com/in/yashin-%F0%9D%98%92han-444a17184/)                                                                                                             [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt = 'instagram' height = '40'>](https://www.instagram.com/mr_khan564/)
+  
