@@ -10,7 +10,7 @@
 
 ###
 <img src="https://github.com/ykhan2109/ykhan2109/blob/main/Working.gif"  align="right" width="350" height="250" alt="gif"> 
-<p align="left">👨‍🎓 Currentlt i am final year computer science engineering student<br>🧠 Sapiosexual in nature <br>✨ I love travelling , playing guitar , reading books , meeting new people .<br>📚 I’m looking to collaborate on ML and Web dev based projects<br>🎯 Goals: To be happy in whatever i do <br>🌱 I’m currently learning Django, Django REST ,NLP and MEAN development.<br>🎲 Fun Fact : I can live without food for more than a day but can live without music.</p>
+<p align="left">👨‍🎓 Currently i am final year computer science engineering student<br>🧠 Sapiosexual in nature <br>✨ I love travelling , playing guitar , reading books , meeting new people .<br>📚 I’m looking to collaborate on ML and Web dev based projects<br>🎯 Goals: To be happy in whatever i do <br>🌱 I’m currently learning Django, Django REST ,NLP and MEAN development.<br>🎲 Fun Fact : I can live without food for more than a day but can live without music.</p>
 
 
 
