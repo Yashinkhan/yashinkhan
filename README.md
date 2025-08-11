@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yashin khan and I'm a <br> computer science engineering student from Gauhati University Institude of Science and Technology.</p>
+<p align="left">My name is Yashin khan and I'm a <br> computer science engineer from Gauhati University Institude of Science and Technology.</p>
 
 ###
 
